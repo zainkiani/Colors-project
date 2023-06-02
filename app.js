@@ -62,7 +62,7 @@ function colorizeSliders(color,hue,saturation,brightness){
 
     //scale hue
 
-    // const noHue = color.set("hsl.h",0);
+    // const noHue = color.set("hsl.h",0)
     // const midHue = color.set("hsl.h",0.5);
     // const fullHue = color.set("hsl.h",1);
     // const scaleHue = chroma.scale([noHue,color,fullHue]);
